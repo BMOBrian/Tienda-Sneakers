@@ -1,0 +1,15 @@
+C:\Users\BRIAN\Documents\SneakersShop\Sneakers\Sneakers.Modelos\bin\Debug\net7.0\Sneakers.Modelos.deps.json
+C:\Users\BRIAN\Documents\SneakersShop\Sneakers\Sneakers.Modelos\bin\Debug\net7.0\Sneakers.Modelos.dll
+C:\Users\BRIAN\Documents\SneakersShop\Sneakers\Sneakers.Modelos\bin\Debug\net7.0\Sneakers.Modelos.pdb
+C:\Users\BRIAN\Documents\SneakersShop\Sneakers\Sneakers.Modelos\bin\Debug\net7.0\Sneakers.Utilidades.dll
+C:\Users\BRIAN\Documents\SneakersShop\Sneakers\Sneakers.Modelos\bin\Debug\net7.0\Sneakers.Utilidades.pdb
+C:\Users\BRIAN\Documents\SneakersShop\Sneakers\Sneakers.Modelos\obj\Debug\net7.0\Sneakers.Modelos.csproj.AssemblyReference.cache
+C:\Users\BRIAN\Documents\SneakersShop\Sneakers\Sneakers.Modelos\obj\Debug\net7.0\Sneakers.Modelos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BRIAN\Documents\SneakersShop\Sneakers\Sneakers.Modelos\obj\Debug\net7.0\Sneakers.Modelos.AssemblyInfoInputs.cache
+C:\Users\BRIAN\Documents\SneakersShop\Sneakers\Sneakers.Modelos\obj\Debug\net7.0\Sneakers.Modelos.AssemblyInfo.cs
+C:\Users\BRIAN\Documents\SneakersShop\Sneakers\Sneakers.Modelos\obj\Debug\net7.0\Sneakers.Modelos.csproj.CoreCompileInputs.cache
+C:\Users\BRIAN\Documents\SneakersShop\Sneakers\Sneakers.Modelos\obj\Debug\net7.0\Sneakers.Modelos.csproj.CopyComplete
+C:\Users\BRIAN\Documents\SneakersShop\Sneakers\Sneakers.Modelos\obj\Debug\net7.0\Sneakers.Modelos.dll
+C:\Users\BRIAN\Documents\SneakersShop\Sneakers\Sneakers.Modelos\obj\Debug\net7.0\refint\Sneakers.Modelos.dll
+C:\Users\BRIAN\Documents\SneakersShop\Sneakers\Sneakers.Modelos\obj\Debug\net7.0\Sneakers.Modelos.pdb
+C:\Users\BRIAN\Documents\SneakersShop\Sneakers\Sneakers.Modelos\obj\Debug\net7.0\ref\Sneakers.Modelos.dll

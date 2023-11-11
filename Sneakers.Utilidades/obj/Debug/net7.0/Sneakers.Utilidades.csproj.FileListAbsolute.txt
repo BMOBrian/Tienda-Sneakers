@@ -1,0 +1,11 @@
+C:\Users\BRIAN\Documents\SneakersShop\Sneakers\Sneakers.Utilidades\bin\Debug\net7.0\Sneakers.Utilidades.deps.json
+C:\Users\BRIAN\Documents\SneakersShop\Sneakers\Sneakers.Utilidades\bin\Debug\net7.0\Sneakers.Utilidades.dll
+C:\Users\BRIAN\Documents\SneakersShop\Sneakers\Sneakers.Utilidades\bin\Debug\net7.0\Sneakers.Utilidades.pdb
+C:\Users\BRIAN\Documents\SneakersShop\Sneakers\Sneakers.Utilidades\obj\Debug\net7.0\Sneakers.Utilidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BRIAN\Documents\SneakersShop\Sneakers\Sneakers.Utilidades\obj\Debug\net7.0\Sneakers.Utilidades.AssemblyInfoInputs.cache
+C:\Users\BRIAN\Documents\SneakersShop\Sneakers\Sneakers.Utilidades\obj\Debug\net7.0\Sneakers.Utilidades.AssemblyInfo.cs
+C:\Users\BRIAN\Documents\SneakersShop\Sneakers\Sneakers.Utilidades\obj\Debug\net7.0\Sneakers.Utilidades.csproj.CoreCompileInputs.cache
+C:\Users\BRIAN\Documents\SneakersShop\Sneakers\Sneakers.Utilidades\obj\Debug\net7.0\Sneakers.Utilidades.dll
+C:\Users\BRIAN\Documents\SneakersShop\Sneakers\Sneakers.Utilidades\obj\Debug\net7.0\refint\Sneakers.Utilidades.dll
+C:\Users\BRIAN\Documents\SneakersShop\Sneakers\Sneakers.Utilidades\obj\Debug\net7.0\Sneakers.Utilidades.pdb
+C:\Users\BRIAN\Documents\SneakersShop\Sneakers\Sneakers.Utilidades\obj\Debug\net7.0\ref\Sneakers.Utilidades.dll

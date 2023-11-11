@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Sneakers.Modelos/1.0.0": {
+        "dependencies": {
+          "Sneakers.Utilidades": "1.0.0"
+        },
+        "runtime": {
+          "Sneakers.Modelos.dll": {}
+        }
+      },
+      "Sneakers.Utilidades/1.0.0": {
+        "runtime": {
+          "Sneakers.Utilidades.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Sneakers.Modelos/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Sneakers.Utilidades/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

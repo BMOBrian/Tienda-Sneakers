@@ -1,0 +1,17 @@
+C:\Users\BRIAN\Documents\SneakersShop\Sneakers\Sneakers.AccesoDatos\bin\Debug\net7.0\Sneakers.AccesoDatos.deps.json
+C:\Users\BRIAN\Documents\SneakersShop\Sneakers\Sneakers.AccesoDatos\bin\Debug\net7.0\Sneakers.AccesoDatos.dll
+C:\Users\BRIAN\Documents\SneakersShop\Sneakers\Sneakers.AccesoDatos\bin\Debug\net7.0\Sneakers.AccesoDatos.pdb
+C:\Users\BRIAN\Documents\SneakersShop\Sneakers\Sneakers.AccesoDatos\bin\Debug\net7.0\Sneakers.Modelos.dll
+C:\Users\BRIAN\Documents\SneakersShop\Sneakers\Sneakers.AccesoDatos\bin\Debug\net7.0\Sneakers.Utilidades.dll
+C:\Users\BRIAN\Documents\SneakersShop\Sneakers\Sneakers.AccesoDatos\bin\Debug\net7.0\Sneakers.Modelos.pdb
+C:\Users\BRIAN\Documents\SneakersShop\Sneakers\Sneakers.AccesoDatos\bin\Debug\net7.0\Sneakers.Utilidades.pdb
+C:\Users\BRIAN\Documents\SneakersShop\Sneakers\Sneakers.AccesoDatos\obj\Debug\net7.0\Sneakers.AccesoDatos.csproj.AssemblyReference.cache
+C:\Users\BRIAN\Documents\SneakersShop\Sneakers\Sneakers.AccesoDatos\obj\Debug\net7.0\Sneakers.AccesoDatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BRIAN\Documents\SneakersShop\Sneakers\Sneakers.AccesoDatos\obj\Debug\net7.0\Sneakers.AccesoDatos.AssemblyInfoInputs.cache
+C:\Users\BRIAN\Documents\SneakersShop\Sneakers\Sneakers.AccesoDatos\obj\Debug\net7.0\Sneakers.AccesoDatos.AssemblyInfo.cs
+C:\Users\BRIAN\Documents\SneakersShop\Sneakers\Sneakers.AccesoDatos\obj\Debug\net7.0\Sneakers.AccesoDatos.csproj.CoreCompileInputs.cache
+C:\Users\BRIAN\Documents\SneakersShop\Sneakers\Sneakers.AccesoDatos\obj\Debug\net7.0\Sneakers.AccesoDatos.csproj.CopyComplete
+C:\Users\BRIAN\Documents\SneakersShop\Sneakers\Sneakers.AccesoDatos\obj\Debug\net7.0\Sneakers.AccesoDatos.dll
+C:\Users\BRIAN\Documents\SneakersShop\Sneakers\Sneakers.AccesoDatos\obj\Debug\net7.0\refint\Sneakers.AccesoDatos.dll
+C:\Users\BRIAN\Documents\SneakersShop\Sneakers\Sneakers.AccesoDatos\obj\Debug\net7.0\Sneakers.AccesoDatos.pdb
+C:\Users\BRIAN\Documents\SneakersShop\Sneakers\Sneakers.AccesoDatos\obj\Debug\net7.0\ref\Sneakers.AccesoDatos.dll
